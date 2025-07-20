@@ -25,5 +25,5 @@ Harvard-CS50-Projects/
 ## Purpose
 This repository serves as a personal portfolio of my CS50 coursework to demonstrate my programming ability and computer science fundamentals.
 
-## License
-These assignments follow the honor code guidelines and are for personal educational purposes only.
+## Usage Notice
+These assignments follow the honor code guidelines and are provided for personal educational purposes only. Please do not submit this code as your own for academic credit.

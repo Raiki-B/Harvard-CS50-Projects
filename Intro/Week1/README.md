@@ -20,8 +20,8 @@ Prompts the user for their name and greets them using string formatting.
 ### [Mario (More Comfortable)](./mario-more/)
 Generates a double half-pyramid of a given height using nested `for` loops and proper alignment.
 
-### [Credit](https://cs50.harvard.edu/x/psets/1/credit/) *(To be completed)*
-Will implement Luhn’s Algorithm to validate credit card numbers and identify the card type.
+### [Credit](./credit/)
+Implemented Luhn’s Algorithm to validate credit card numbers and identify the card type.
 
 ## Notes
 

@@ -27,5 +27,5 @@ Height: 4
 - [`mario.c`](./mario.c)
 
 ## [Status](https://submit.cs50.io/users/Raiki-B/cs50/problems/2025/x/mario/more)
-- 10/10 tests passed
-- 100% on style score
+- ✅ 10/10 tests passed
+- ✅ 100% on style score

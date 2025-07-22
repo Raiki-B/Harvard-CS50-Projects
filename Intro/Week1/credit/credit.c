@@ -14,8 +14,6 @@ string CheckCard(long cardNumber);
 
 int main()
 {
-    long input = 4003600000000014;
-
     // Prompt user for input of a credit card number
     long ccn = get_long("Enter credit card number: \n");
 
